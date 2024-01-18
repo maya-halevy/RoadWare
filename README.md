@@ -6,7 +6,6 @@
 
 ### Full Stack Developers:
 - **Noa Sela**
-- **Reem Cohen**
 - **Shlomo Z**
 
 ### Data Science Team:
